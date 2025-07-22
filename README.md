@@ -19,7 +19,7 @@ A simple Arduino-based system that tracks the brightest light source using 4 LDR
 
 - Arduino Uno
 - 4x LDR (Light Dependent Resistors)
-- 2x 10kΩ resistors
+- 4x 10kΩ resistors
 - 1x Servo motor (SG90 or similar)
 - Cardboard or 3D printed frame (Fusion 360)
 - Breadboard + Jumper Wires
